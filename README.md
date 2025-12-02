@@ -26,3 +26,6 @@
 
 2. Откройте проект в Android Studio
 3. Запустите проект на эмуляторе
+
+### Демонстрация работы приложения находится по ссылке:
+https://drive.google.com/file/d/1jl8S2Q0sDUNoNKERa8rmEbL7M5Ov3QQg/view
